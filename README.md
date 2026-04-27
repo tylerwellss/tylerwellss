@@ -8,7 +8,7 @@ RAG system for e-commerce with semantic search and conversational assistant
 - Tech: LlamaIndex, ChromaDB, FastAPI, React
 - [Live Demo](link) | [Blog Series](link) | [Code](link)
 
-## MCP Server
+### MCP Server
 Model Context Protocol server connecting Claude to college football data
 - Tech: FastMCP, Python, ChromaDB
 - [Blog Post](link) | [Code](link)
@@ -20,7 +20,4 @@ Test-driven multi-agent system for RFP/contract analysis
 ## Writing
 I write about AI engineering, RAG systems, and enterprise adoption:
 - [13 blog posts on tylerwells.dev](link)
-- Topics: RAG evals, MCP servers, multi-agent systems, automation ROI
-
-## Looking For
-AI Implementation / AI Transformation roles.
+- Topics: RAG evals, MCP servers, multi-agent systems, automation
