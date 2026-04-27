@@ -23,4 +23,4 @@ I write about AI engineering, RAG systems, and enterprise adoption:
 - Topics: RAG evals, MCP servers, multi-agent systems, automation ROI
 
 ## Looking For
-Senior AI Implementation / AI Transformation roles at Fortune 500 companies
+AI Implementation / AI Transformation roles.
