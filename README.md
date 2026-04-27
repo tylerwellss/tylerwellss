@@ -3,12 +3,12 @@ AI Implementation Specialist | Building Enterprise AI Solutions
 
 ## Featured Projects
 
-### 🏔️ Ozark Ridge - AI-Powered Product Search
+### AI-Powered Product Search
 RAG system for e-commerce with semantic search and conversational assistant
 - Tech: LlamaIndex, ChromaDB, FastAPI, React
 - [Live Demo](link) | [Blog Series](link) | [Code](link)
 
-### 🏈 CFB MCP Server
+## MCP Server
 Model Context Protocol server connecting Claude to college football data
 - Tech: FastMCP, Python, ChromaDB
 - [Blog Post](link) | [Code](link)
